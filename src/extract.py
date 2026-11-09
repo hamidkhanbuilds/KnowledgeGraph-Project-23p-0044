@@ -100,7 +100,15 @@ def namespan(tok,preps=("of","for"),allowin=False):
                         keep.update([ch,p])
                         stack.append(p)
     toks=sorted(keep,key=lambda t: t.i)
-    return "".join(t.text_with_ws for t in toks).strip()
+    text=toks[0].text
+    for left,right in zip(toks,toks[1:]):
+        gap=tok.doc.text[left.idx+len(left.text):right.idx]
+        if gap.strip() in ("","-","‐","‑"):
+            text+=gap
+        else:
+            text+=" "
+        text+=right.text
+    return text
 
 
 def owntokens(verb):
@@ -313,7 +321,10 @@ def ruleaward(tok,st):
     if not subj:
         return
     for a in awards:
-        yield "receivedAward",subj,namespan(a,preps=("of","for"),allowin=True),"award/dep"
+        name=namespan(a,preps=("of","for"),allowin=True)
+        if name.lower() in awardwords:
+            continue
+        yield "receivedAward",subj,name,"award/dep"
 
 
 def ruleworksat(tok,st):

@@ -5,3 +5,9 @@ before,receivedAward,8,7,49,0.533,0.140
 before,worksAt,6,11,22,0.353,0.214
 before,doctoralAdvisor,2,0,4,1.000,0.333
 before,ALL,23,25,88,0.479,0.207
+after,bornIn,2,3,3,0.400,0.400
+after,educatedAt,6,3,9,0.667,0.400
+after,receivedAward,8,6,49,0.571,0.140
+after,worksAt,6,11,22,0.353,0.214
+after,doctoralAdvisor,2,0,4,1.000,0.333
+after,ALL,24,23,87,0.511,0.216

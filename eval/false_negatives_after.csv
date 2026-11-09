@@ -1,0 +1,88 @@
+position,subject,predicate,object
+1,Erwin Schrödinger,bornIn,Vienna
+2,Erwin Schrödinger,doctoralAdvisor,Franz S. Exner
+3,Erwin Schrödinger,doctoralAdvisor,Friedrich Hasenöhrl
+4,Erwin Schrödinger,educatedAt,Akademisches Gymnasium
+5,Erwin Schrödinger,educatedAt,University of Oxford
+6,Erwin Schrödinger,educatedAt,University of Vienna
+7,Erwin Schrödinger,receivedAward,Austrian Decoration for Science and Art
+8,Erwin Schrödinger,receivedAward,Erwin Schrödinger Prize
+9,Erwin Schrödinger,receivedAward,Fellow of the American Physical Society
+10,Erwin Schrödinger,receivedAward,Foreign Member of the Royal Society
+11,Erwin Schrödinger,receivedAward,Haitinger Prize
+12,Erwin Schrödinger,receivedAward,Matteucci Medal
+13,Erwin Schrödinger,receivedAward,Max Planck Medal
+14,Erwin Schrödinger,receivedAward,Pour le Mérite
+15,Erwin Schrödinger,receivedAward,Pour le Mérite for Sciences and Arts order
+16,Erwin Schrödinger,receivedAward,Prix Paul Doistau-Émile Blutet de l’Information Scientifique
+17,Erwin Schrödinger,receivedAward,Prize of the City of Vienna for Natural Sciences
+18,Erwin Schrödinger,worksAt,Frederick William University Berlin
+19,Erwin Schrödinger,worksAt,Ghent University
+20,Erwin Schrödinger,worksAt,Humboldt-Universität zu Berlin
+21,Erwin Schrödinger,worksAt,University of Graz
+22,Erwin Schrödinger,worksAt,University of Oxford
+23,Erwin Schrödinger,worksAt,University of Stuttgart
+24,Erwin Schrödinger,worksAt,University of Vienna
+25,Erwin Schrödinger,worksAt,University of Wrocław
+26,James Chadwick,bornIn,Bollington
+27,James Chadwick,doctoralAdvisor,Ernest Rutherford
+28,James Chadwick,educatedAt,University of Cambridge
+29,James Chadwick,educatedAt,University of Manchester
+30,James Chadwick,receivedAward,Companion of Honour
+31,James Chadwick,receivedAward,Copley Medal
+32,James Chadwick,receivedAward,Faraday Medal
+33,James Chadwick,receivedAward,Fellow of the Royal Society
+34,James Chadwick,receivedAward,Franklin Medal
+35,James Chadwick,receivedAward,Guthrie Medal and Prize
+36,James Chadwick,receivedAward,Knight Bachelor
+37,James Chadwick,receivedAward,Medal of Freedom
+38,James Chadwick,receivedAward,Melchett Medal
+39,James Chadwick,receivedAward,Nobel Prize in Physics
+40,James Chadwick,receivedAward,Pour le Mérite for Sciences and Arts order
+41,James Chadwick,receivedAward,Royal Society Bakerian Medal
+42,James Chadwick,worksAt,University of Manchester
+43,James Chadwick,worksAt,Victoria University of Manchester
+44,Richard Feynman,bornIn,Far Rockaway
+45,Richard Feynman,educatedAt,Princeton University
+46,Richard Feynman,receivedAward,Ernest Orlando Lawrence Award
+47,Richard Feynman,receivedAward,Fellow of the American Physical Society
+48,Richard Feynman,receivedAward,Foreign Member of the Royal Society
+49,Richard Feynman,receivedAward,Niels Bohr International Gold Medal
+50,Richard Feynman,receivedAward,Putnam Fellow
+51,Richard Feynman,worksAt,California Institute of Technology
+52,Richard Feynman,worksAt,Cornell University
+53,Richard Feynman,worksAt,Manhattan Project
+54,Sheldon Glashow,doctoralAdvisor,Julian Seymour Schwinger
+55,Sheldon Glashow,educatedAt,Boston University
+56,Sheldon Glashow,educatedAt,Cornell University
+57,Sheldon Glashow,educatedAt,Harvard University
+58,Sheldon Glashow,receivedAward,High Energy and Particle Physics Prize
+59,Sheldon Glashow,receivedAward,honorary doctor of the Bar-Ilan University
+60,Sheldon Glashow,receivedAward,honorary doctor of Yeshiva University
+61,Sheldon Glashow,receivedAward,honorary doctorate of the University of the Mediterranean - Aix Marseille II
+62,Sheldon Glashow,receivedAward,J. Robert Oppenheimer Memorial Prize
+63,Sheldon Glashow,receivedAward,Richtmyer Memorial Lecture Award
+64,Sheldon Glashow,worksAt,Boston University
+65,Sheldon Glashow,worksAt,Harvard University
+66,Sheldon Glashow,worksAt,"University of California, Berkeley"
+67,Werner Heisenberg,receivedAward,Bavarian Order of Merit
+68,Werner Heisenberg,receivedAward,Foreign Member of the Royal Society
+69,Werner Heisenberg,receivedAward,Grand Cross of the Civil Order of Alfonso X the Wise
+70,Werner Heisenberg,receivedAward,Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany
+71,Werner Heisenberg,receivedAward,Hall of Fame of German Research
+72,Werner Heisenberg,receivedAward,Honorary doctor of the University of Zagreb
+73,Werner Heisenberg,receivedAward,honorary doctorate of the Karlsruhe Institute of Technology
+74,Werner Heisenberg,receivedAward,honorary golden medal of the state capital Munich
+75,Werner Heisenberg,receivedAward,Matteucci Medal
+76,Werner Heisenberg,receivedAward,Max Planck Medal
+77,Werner Heisenberg,receivedAward,Niels Bohr International Gold Medal
+78,Werner Heisenberg,receivedAward,Pour le Mérite
+79,Werner Heisenberg,receivedAward,Pour le Mérite for Sciences and Arts order
+80,Werner Heisenberg,receivedAward,Romano Guardini award
+81,Werner Heisenberg,receivedAward,Sigmund Freud Prize
+82,Werner Heisenberg,worksAt,German nuclear program during World War II
+83,Werner Heisenberg,worksAt,Humboldt-Universität zu Berlin
+84,Werner Heisenberg,worksAt,LMU Munich
+85,Werner Heisenberg,worksAt,University of Copenhagen
+86,Werner Heisenberg,worksAt,University of Göttingen
+87,Werner Heisenberg,worksAt,University of St Andrews

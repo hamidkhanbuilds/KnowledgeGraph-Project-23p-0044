@@ -1,0 +1,24 @@
+position,subject,predicate,object
+1,Erwin Schrödinger,bornIn,TU Wien
+2,Erwin Schrödinger,receivedAward,Haitinger Prize of Austrian Academy of Sciences
+3,Erwin Schrödinger,worksAt,Princeton University
+4,James Chadwick,bornIn,Cheshire
+5,James Chadwick,educatedAt,Central Grammar School for Boys
+6,James Chadwick,educatedAt,Gonville
+7,James Chadwick,receivedAward,Exhibition Scholarship
+8,James Chadwick,receivedAward,Heginbottom Scholarship
+9,James Chadwick,receivedAward,Research Fellowship for Exhibition
+10,James Chadwick,worksAt,Advisory Committee
+11,James Chadwick,worksAt,Combined Policy Committee
+12,James Chadwick,worksAt,Los Alamos Laboratory
+13,James Chadwick,worksAt,United Nations Atomic Energy Commission
+14,Richard Feynman,bornIn,Queens
+15,Richard Feynman,receivedAward,Nobel Prize
+16,Richard Feynman,worksAt,Mensa International
+17,Richard Feynman,worksAt,Thinking Machines Corporation
+18,Werner Heisenberg,educatedAt,University of Göttingen
+19,Werner Heisenberg,receivedAward,Romano Guardini Prize
+20,Werner Heisenberg,worksAt,Chair for Theoretical Physics
+21,Werner Heisenberg,worksAt,Friedrich-Wilhelms-Universität
+22,Werner Heisenberg,worksAt,MPIFA
+23,Werner Heisenberg,worksAt,University of Chicago
