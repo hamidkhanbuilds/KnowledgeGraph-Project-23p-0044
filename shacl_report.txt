@@ -1,0 +1,45 @@
+Validation Report
+Conforms: False
+Results (7):
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("No birthplace recorded for this person.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path kg:bornIn ; sh:severity sh:Warning ]
+	Focus Node: kg:Arnold_Sommerfeld
+	Result Path: kg:bornIn
+	Message: No birthplace recorded for this person.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("No birthplace recorded for this person.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path kg:bornIn ; sh:severity sh:Warning ]
+	Focus Node: kg:Ernest_Rutherford
+	Result Path: kg:bornIn
+	Message: No birthplace recorded for this person.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("No birthplace recorded for this person.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path kg:bornIn ; sh:severity sh:Warning ]
+	Focus Node: kg:John_Archibald_Wheeler
+	Result Path: kg:bornIn
+	Message: No birthplace recorded for this person.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("No birthplace recorded for this person.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path kg:bornIn ; sh:severity sh:Warning ]
+	Focus Node: kg:Mary_Louise_Bell
+	Result Path: kg:bornIn
+	Message: No birthplace recorded for this person.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("No birthplace recorded for this person.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path kg:bornIn ; sh:severity sh:Warning ]
+	Focus Node: kg:Shin%27ichir%C5%8D_Tomonaga
+	Result Path: kg:bornIn
+	Message: No birthplace recorded for this person.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("No birthplace recorded for this person.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path kg:bornIn ; sh:severity sh:Warning ]
+	Focus Node: kg:United_States
+	Result Path: kg:bornIn
+	Message: No birthplace recorded for this person.
+Validation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Warning
+	Source Shape: [ sh:message Literal("No birthplace recorded for this person.") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path kg:bornIn ; sh:severity sh:Warning ]
+	Focus Node: kg:Waleed_Gilani
+	Result Path: kg:bornIn
+	Message: No birthplace recorded for this person.

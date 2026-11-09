@@ -1,0 +1,257 @@
+@prefix kg: <http://example.org/kg/23p-0044/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+kg:Ernest_Rutherford a kg:Person ;
+    rdfs:label "Ernest Rutherford" ;
+    kg:worksAt kg:Cavendish_Laboratory,
+        kg:University_of_Cambridge .
+
+kg:Erwin_Schr%C3%B6dinger a kg:Person ;
+    rdfs:label "Erwin Schrödinger" ;
+    kg:bornIn kg:TU_Wien ;
+    kg:receivedAward kg:Haitinger_Prize_of_Austrian_Academy_of_Sciences,
+        kg:Nobel_Prize_in_Physics ;
+    kg:worksAt kg:Dublin_Institute_for_Advanced_Studies,
+        kg:Princeton_University,
+        kg:University_of_Jena,
+        kg:University_of_Zurich .
+
+kg:Faryal_Awan a kg:Person ;
+    rdfs:label "Faryal Awan" ;
+    kg:bornIn kg:Karachi ;
+    kg:doctoralAdvisor kg:Waleed_Gilani ;
+    kg:educatedAt kg:Calder_University,
+        kg:Westmere_Institute_of_Technology ;
+    kg:receivedAward kg:Northgate_Prize ;
+    kg:worksAt kg:Larkspur_College_of_Science .
+
+kg:James_Chadwick a kg:Person ;
+    rdfs:label "James Chadwick" ;
+    kg:bornIn kg:Cheshire ;
+    kg:educatedAt kg:Caius_College,
+        kg:Central_Grammar_School_for_Boys,
+        kg:Gonville,
+        kg:Victoria_University_of_Manchester ;
+    kg:receivedAward kg:Exhibition_Scholarship,
+        kg:Heginbottom_Scholarship,
+        kg:Hughes_Medal,
+        kg:Research_Fellowship_for_Exhibition ;
+    kg:worksAt kg:Advisory_Committee,
+        kg:Combined_Policy_Committee,
+        kg:Los_Alamos_Laboratory,
+        kg:United_Nations_Atomic_Energy_Commission,
+        kg:University_of_Liverpool .
+
+kg:Mary_Louise_Bell a kg:Person ;
+    rdfs:label "Mary Louise Bell" ;
+    kg:worksAt kg:Michigan_State_University .
+
+kg:Richard_Feynman a kg:Person ;
+    rdfs:label "Richard Feynman" ;
+    kg:bornIn kg:Queens ;
+    kg:doctoralAdvisor kg:John_Archibald_Wheeler ;
+    kg:educatedAt kg:Far_Rockaway_High_School,
+        kg:Massachusetts_Institute_of_Technology ;
+    kg:receivedAward kg:Albert_Einstein_Award,
+        kg:National_Medal_of_Science,
+        kg:Nobel_Prize,
+        kg:Nobel_Prize_in_Physics,
+        kg:Oersted_Medal ;
+    kg:worksAt kg:Mensa_International,
+        kg:Thinking_Machines_Corporation .
+
+kg:Sheldon_Glashow a kg:Person ;
+    rdfs:label "Sheldon Glashow" ;
+    kg:bornIn kg:New_York_City ;
+    kg:educatedAt kg:Bronx_High_School_of_Science ;
+    kg:receivedAward kg:Nobel_Prize_in_Physics .
+
+kg:Shin%27ichir%C5%8D_Tomonaga a kg:Person ;
+    rdfs:label "Shin'ichirō Tomonaga" ;
+    kg:receivedAward kg:Nobel_Prize_in_Physics .
+
+kg:United_States a kg:Person ;
+    rdfs:label "United States" ;
+    kg:worksAt kg:Frankford_Arsenal .
+
+kg:Werner_Heisenberg a kg:Person ;
+    rdfs:label "Werner Heisenberg" ;
+    kg:bornIn kg:W%C3%BCrzburg ;
+    kg:doctoralAdvisor kg:Arnold_Sommerfeld ;
+    kg:educatedAt kg:Ludwig-Maximilians-Universit%C3%A4t_M%C3%BCnchen,
+        kg:University_of_G%C3%B6ttingen ;
+    kg:receivedAward kg:Nobel_Prize_in_Physics,
+        kg:Romano_Guardini_Prize ;
+    kg:worksAt kg:Chair_for_Theoretical_Physics,
+        kg:Friedrich-Wilhelms-Universit%C3%A4t,
+        kg:MPIFA,
+        kg:Max_Planck_Institute_for_Physics,
+        kg:University_of_Chicago,
+        kg:University_of_Leipzig .
+
+kg:Advisory_Committee a kg:Organization ;
+    rdfs:label "Advisory Committee" .
+
+kg:Albert_Einstein_Award a kg:Award ;
+    rdfs:label "Albert Einstein Award" .
+
+kg:Arnold_Sommerfeld a kg:Person ;
+    rdfs:label "Arnold Sommerfeld" .
+
+kg:Bronx_High_School_of_Science a kg:Organization ;
+    rdfs:label "Bronx High School of Science" .
+
+kg:Caius_College a kg:Organization ;
+    rdfs:label "Caius College" .
+
+kg:Calder_University a kg:Organization ;
+    rdfs:label "Calder University" .
+
+kg:Cavendish_Laboratory a kg:Organization ;
+    rdfs:label "Cavendish Laboratory" .
+
+kg:Central_Grammar_School_for_Boys a kg:Organization ;
+    rdfs:label "Central Grammar School for Boys" .
+
+kg:Chair_for_Theoretical_Physics a kg:Organization ;
+    rdfs:label "Chair for Theoretical Physics" .
+
+kg:Cheshire a kg:Place ;
+    rdfs:label "Cheshire" .
+
+kg:Combined_Policy_Committee a kg:Organization ;
+    rdfs:label "Combined Policy Committee" .
+
+kg:Dublin_Institute_for_Advanced_Studies a kg:Organization ;
+    rdfs:label "Dublin Institute for Advanced Studies" .
+
+kg:Exhibition_Scholarship a kg:Award ;
+    rdfs:label "Exhibition Scholarship" .
+
+kg:Far_Rockaway_High_School a kg:Organization ;
+    rdfs:label "Far Rockaway High School" .
+
+kg:Frankford_Arsenal a kg:Organization ;
+    rdfs:label "Frankford Arsenal" .
+
+kg:Friedrich-Wilhelms-Universit%C3%A4t a kg:Organization ;
+    rdfs:label "Friedrich-Wilhelms-Universität" .
+
+kg:Gonville a kg:Organization ;
+    rdfs:label "Gonville" .
+
+kg:Haitinger_Prize_of_Austrian_Academy_of_Sciences a kg:Award ;
+    rdfs:label "Haitinger Prize of Austrian Academy of Sciences" .
+
+kg:Heginbottom_Scholarship a kg:Award ;
+    rdfs:label "Heginbottom Scholarship" .
+
+kg:Hughes_Medal a kg:Award ;
+    rdfs:label "Hughes Medal" .
+
+kg:John_Archibald_Wheeler a kg:Person ;
+    rdfs:label "John Archibald Wheeler" .
+
+kg:Karachi a kg:Place ;
+    rdfs:label "Karachi" .
+
+kg:Larkspur_College_of_Science a kg:Organization ;
+    rdfs:label "Larkspur College of Science" .
+
+kg:Los_Alamos_Laboratory a kg:Organization ;
+    rdfs:label "Los Alamos Laboratory" .
+
+kg:Ludwig-Maximilians-Universit%C3%A4t_M%C3%BCnchen a kg:Organization ;
+    rdfs:label "Ludwig-Maximilians-Universität München" .
+
+kg:MPIFA a kg:Organization ;
+    rdfs:label "MPIFA" .
+
+kg:Massachusetts_Institute_of_Technology a kg:Organization ;
+    rdfs:label "Massachusetts Institute of Technology" .
+
+kg:Max_Planck_Institute_for_Physics a kg:Organization ;
+    rdfs:label "Max Planck Institute for Physics" .
+
+kg:Mensa_International a kg:Organization ;
+    rdfs:label "Mensa International" .
+
+kg:Michigan_State_University a kg:Organization ;
+    rdfs:label "Michigan State University" .
+
+kg:National_Medal_of_Science a kg:Award ;
+    rdfs:label "National Medal of Science" .
+
+kg:New_York_City a kg:Place ;
+    rdfs:label "New York City" .
+
+kg:Nobel_Prize a kg:Award ;
+    rdfs:label "Nobel Prize" .
+
+kg:Northgate_Prize a kg:Award ;
+    rdfs:label "Northgate Prize" .
+
+kg:Oersted_Medal a kg:Award ;
+    rdfs:label "Oersted Medal" .
+
+kg:Princeton_University a kg:Organization ;
+    rdfs:label "Princeton University" .
+
+kg:Queens a kg:Place ;
+    rdfs:label "Queens" .
+
+kg:Research_Fellowship_for_Exhibition a kg:Award ;
+    rdfs:label "Research Fellowship for Exhibition" .
+
+kg:Romano_Guardini_Prize a kg:Award ;
+    rdfs:label "Romano Guardini Prize" .
+
+kg:TU_Wien a kg:Place ;
+    rdfs:label "TU Wien" .
+
+kg:Thinking_Machines_Corporation a kg:Organization ;
+    rdfs:label "Thinking Machines Corporation" .
+
+kg:Thornfield_College_of_Science a kg:Organization ;
+    rdfs:label "Thornfield College of Science" .
+
+kg:United_Nations_Atomic_Energy_Commission a kg:Organization ;
+    rdfs:label "United Nations Atomic Energy Commission" .
+
+kg:University_of_Cambridge a kg:Organization ;
+    rdfs:label "University of Cambridge" .
+
+kg:University_of_Chicago a kg:Organization ;
+    rdfs:label "University of Chicago" .
+
+kg:University_of_G%C3%B6ttingen a kg:Organization ;
+    rdfs:label "University of Göttingen" .
+
+kg:University_of_Jena a kg:Organization ;
+    rdfs:label "University of Jena" .
+
+kg:University_of_Leipzig a kg:Organization ;
+    rdfs:label "University of Leipzig" .
+
+kg:University_of_Liverpool a kg:Organization ;
+    rdfs:label "University of Liverpool" .
+
+kg:University_of_Zurich a kg:Organization ;
+    rdfs:label "University of Zurich" .
+
+kg:Victoria_University_of_Manchester a kg:Organization ;
+    rdfs:label "Victoria University of Manchester" .
+
+kg:W%C3%BCrzburg a kg:Place ;
+    rdfs:label "Würzburg" .
+
+kg:Waleed_Gilani a kg:Person ;
+    rdfs:label "Waleed Gilani" ;
+    kg:worksAt kg:Thornfield_College_of_Science .
+
+kg:Westmere_Institute_of_Technology a kg:Organization ;
+    rdfs:label "Westmere Institute of Technology" .
+
+kg:Nobel_Prize_in_Physics a kg:Award ;
+    rdfs:label "Nobel Prize in Physics" .
+

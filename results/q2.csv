@@ -1,0 +1,6 @@
+predicate,triples
+http://example.org/kg/23p-0044/worksAt,23
+http://example.org/kg/23p-0044/receivedAward,16
+http://example.org/kg/23p-0044/educatedAt,11
+http://example.org/kg/23p-0044/bornIn,6
+http://example.org/kg/23p-0044/doctoralAdvisor,3
