@@ -61,4 +61,4 @@ Organisation aliases are not merged (MIT vs Massachusetts Institute of Technolog
 
 ## Sources / honesty note
 Allowed material used: course slides, spaCy / rdflib / pySHACL / Jena / Wikidata / SPARQL / SHACL documentation. The Wikipedia fetch uses the MediaWiki `extracts` API described in the handout (Appendix B), written as my own script.
-**AI assistance:** (edit this line so it is true and matches what your instructor allows) "The first version of the code was drafted with Claude (Anthropic); I read, tested and changed it and can explain every part."
+**AI assistance:** I took assistance from CHATGPT and CLAUDE write some sort of codes where i dont understand, Format the codes and some explanations etc.
