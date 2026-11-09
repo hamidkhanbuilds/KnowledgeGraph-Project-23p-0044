@@ -1,0 +1,30 @@
+person,predicate,property,value_qid,value_label,aliases
+Erwin Schrödinger,receivedAward,P166,Q38104,Nobel Prize in Physics,Physics Nobel Prize
+Erwin Schrödinger,bornIn,P19,Q1741,Vienna,"Vienna, Austria"
+Erwin Schrödinger,worksAt,P108,Q34433,University of Oxford,Oxford|Oxford University|Oxon.|Oxf|The University of Oxford|Univ. of Oxford|Universitas Oxoniensis
+Erwin Schrödinger,educatedAt,P69,Q34433,University of Oxford,Oxford|Oxford University|Oxon.|Oxf|The University of Oxford|Univ. of Oxford|Universitas Oxoniensis
+Erwin Schrödinger,doctoralAdvisor,P184,Q78849,Friedrich Hasenöhrl,Fritz Hasenöhrl
+Erwin Schrödinger,doctoralAdvisor,P184,Q84783,Franz S. Exner,Franz Serafin Exner
+Erwin Schrödinger,worksAt,P108,Q122453,University of Stuttgart,USTUTT
+Erwin Schrödinger,worksAt,P108,Q152087,Humboldt-Universität zu Berlin,HU Berlin|Humboldt University|Universitas Humboldtiana Berolinensis|Universität zu Berlin|University of Berlin|Humboldt University of Berlin
+Erwin Schrödinger,worksAt,P108,Q154561,University of Jena,University of Jena|Alma Mater Jenensis|Jena University|UJena
+Erwin Schrödinger,worksAt,P108,Q165980,University of Vienna,Universität Wien
+Erwin Schrödinger,educatedAt,P69,Q165980,University of Vienna,Universität Wien
+Erwin Schrödinger,worksAt,P108,Q206702,University of Zurich,Uni Zurich|Uni Zürich|Universitat Zurich|Universität Zürich|University of Zürich|UZH|uzh.ch
+Erwin Schrödinger,receivedAward,P166,Q156478,Pour le Mérite,Blue Max|Pour le Merite
+Erwin Schrödinger,receivedAward,P166,Q306590,Austrian Decoration for Science and Art,"Austrian Badge of Honour for Science and Art|Austrian Cross of Honor for Science and Art|Austrian Cross of Honor for Science and Art, 1st class|Austrian Cross of Honour for Science and Art|Austrian Cross of Honour for Science and Art, 1st class|Austrian decoration of honour for science and art|Austrian Decoration of Honour for Science and Art|Austrian Honor Cross for Science and Art|Austrian Honorary Cross for Science and Art|Austrian Medal for Science and Art|Ehrenkreuz für Wissenschaft und Kunst|Ehrenzeichen für Wissenschaft und Kunst|Österreichischen Ehrenkreuzes für Wissenschaft und Kunst|Österreichisches Ehrenzeichen für Wissenschaft und Kunst|Träger des Ehrenkreuzes für Wissenschaft und Kunst I. Klasse der Republik Österreich"
+Erwin Schrödinger,worksAt,P108,Q315658,University of Wrocław,University of Breslau|Uniwersytet Wrocławski|UWr
+Erwin Schrödinger,worksAt,P108,Q622683,University of Graz,Carolo Franciscea Graecensis|Karl Franzens Universität|uni-graz.at
+Erwin Schrödinger,receivedAward,P166,Q14906020,Foreign Member of the Royal Society,ForMemRS
+Erwin Schrödinger,worksAt,P108,Q20266330,Frederick William University Berlin,Friedrich Wilhelm University|Friedrich-Wilhelms-Universität zu Berlin|Universität unter den Linden
+Erwin Schrödinger,receivedAward,P166,Q41955909,Fellow of the American Physical Society,APS fellow|Fellow of the APS|American Physical Society Fellow
+Erwin Schrödinger,worksAt,P108,Q1137665,Ghent University,State University of Ghent|UGent|ugent.be|Universiteit Gent|University of Ghent
+Erwin Schrödinger,worksAt,P108,Q3151953,Dublin Institute for Advanced Studies,DIAS|Dublin Institute of Advanced Studies|Institiúid Ard-Léinn Bhaile Átha Cliath
+Erwin Schrödinger,receivedAward,P166,Q317038,Max Planck Medal,
+Erwin Schrödinger,educatedAt,P69,Q414936,Akademisches Gymnasium,
+Erwin Schrödinger,receivedAward,P166,Q876438,Erwin Schrödinger Prize,
+Erwin Schrödinger,receivedAward,P166,Q1419938,Matteucci Medal,
+Erwin Schrödinger,receivedAward,P166,Q1569607,Haitinger Prize,
+Erwin Schrödinger,receivedAward,P166,Q1804550,Prize of the City of Vienna for Natural Sciences,
+Erwin Schrödinger,receivedAward,P166,Q15056034,Pour le Mérite for Sciences and Arts order,
+Erwin Schrödinger,receivedAward,P166,Q15148547,Prix Paul Doistau-Émile Blutet de l’Information Scientifique,

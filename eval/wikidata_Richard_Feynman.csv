@@ -1,0 +1,18 @@
+person,predicate,property,value_qid,value_label,aliases
+Richard Feynman,educatedAt,P69,Q21578,Princeton University,Princeton|College of New Jersey|Princeton College|princeton.edu|University of Princeton
+Richard Feynman,receivedAward,P166,Q38104,Nobel Prize in Physics,Physics Nobel Prize
+Richard Feynman,educatedAt,P69,Q49108,Massachusetts Institute of Technology,Mass Tech
+Richard Feynman,worksAt,P108,Q49115,Cornell University,Cornell|CU|CUI|Cornell Univ.|cornell.edu
+Richard Feynman,bornIn,P19,Q62460,Far Rockaway,"Far Rockaway, New York|Far Rockaway, New York City|Far Rockaway, New York City, New York|Far Rockaway, Queens"
+Richard Feynman,receivedAward,P166,Q1356190,Ernest Orlando Lawrence Award,E. O. Lawrence Award|E.O. Lawrence Award
+Richard Feynman,receivedAward,P166,Q14906020,Foreign Member of the Royal Society,ForMemRS
+Richard Feynman,receivedAward,P166,Q41955909,Fellow of the American Physical Society,APS fellow|Fellow of the APS|American Physical Society Fellow
+Richard Feynman,worksAt,P108,Q161562,California Institute of Technology,CIT|Caltech|Cal Tech
+Richard Feynman,doctoralAdvisor,P184,Q202631,John Archibald Wheeler,John Wheeler|J Wheeler|J.A. Wheeler|John A. Wheeler
+Richard Feynman,receivedAward,P166,Q577432,Albert Einstein Award,Einstein Prize
+Richard Feynman,worksAt,P108,Q127050,Manhattan Project,
+Richard Feynman,receivedAward,P166,Q737051,National Medal of Science,
+Richard Feynman,receivedAward,P166,Q1351451,Oersted Medal,
+Richard Feynman,educatedAt,P69,Q5434604,Far Rockaway High School,
+Richard Feynman,receivedAward,P166,Q7031462,Niels Bohr International Gold Medal,
+Richard Feynman,receivedAward,P166,Q99486391,Putnam Fellow,

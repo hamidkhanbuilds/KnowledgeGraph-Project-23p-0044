@@ -1,0 +1,28 @@
+person,predicate,property,value_qid,value_label,aliases
+Werner Heisenberg,worksAt,P108,Q55044,LMU Munich,LMU Munich|Ludwig-Maximilians-Universität|Ludwig-Maximilians-Universität München|University of Munich|Ludwig-Maximilians-Universität in Munich|Ludwig-Maximilians-Universität zu München
+Werner Heisenberg,educatedAt,P69,Q55044,LMU Munich,LMU Munich|Ludwig-Maximilians-Universität|Ludwig-Maximilians-Universität München|University of Munich|Ludwig-Maximilians-Universität in Munich|Ludwig-Maximilians-Universität zu München
+Werner Heisenberg,bornIn,P19,Q2999,Würzburg,Kreisfreie Stadt Würzburg|Wörtzburch|Wuerzburg
+Werner Heisenberg,receivedAward,P166,Q38104,Nobel Prize in Physics,Physics Nobel Prize
+Werner Heisenberg,worksAt,P108,Q152087,Humboldt-Universität zu Berlin,HU Berlin|Humboldt University|Universitas Humboldtiana Berolinensis|Universität zu Berlin|University of Berlin|Humboldt University of Berlin
+Werner Heisenberg,worksAt,P108,Q152838,University of Göttingen,GAU Göttingen|Georg August University Göttingen|Georg August University of Göttingen|Georg August University|Georg-August-Universität Göttingen|Georg-August-University Göttingen|uni-goettingen|uni-goettingen.de|Universität Göttingen|University of Goettingen|University of Gottingen
+Werner Heisenberg,worksAt,P108,Q154804,Leipzig University,Karl-Marx-Universität|Universität Leipzig|University of Leipzig|ULeipzig
+Werner Heisenberg,worksAt,P108,Q216273,University of St Andrews,St Andrews University|University of Saint Andrews
+Werner Heisenberg,worksAt,P108,Q463326,Max Planck Institute for Physics,Werner Heisenberg Institute
+Werner Heisenberg,receivedAward,P166,Q467143,Sigmund Freud Prize,Sigmund Freud Prize for Scientific Prose
+Werner Heisenberg,receivedAward,P166,Q672787,Bavarian Order of Merit,Bayerischer Verdienstorden
+Werner Heisenberg,worksAt,P108,Q700162,German nuclear program during World War II,German nuclear weapons program|German nuclear weapons programme|Virushaus
+Werner Heisenberg,receivedAward,P166,Q10905171,Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany,Grand Cross of the Order of Merit of the Federal Republic of Germany|Grand Order of Merit with Star and Shoulder-Sash
+Werner Heisenberg,receivedAward,P166,Q14906020,Foreign Member of the Royal Society,ForMemRS
+Werner Heisenberg,receivedAward,P166,Q156478,Pour le Mérite,Blue Max|Pour le Merite
+Werner Heisenberg,worksAt,P108,Q186285,University of Copenhagen,Copenhagen University|Københavns Universitet|ku.dk
+Werner Heisenberg,doctoralAdvisor,P184,Q77078,Arnold Sommerfeld,
+Werner Heisenberg,receivedAward,P166,Q317038,Max Planck Medal,
+Werner Heisenberg,receivedAward,P166,Q1419938,Matteucci Medal,
+Werner Heisenberg,receivedAward,P166,Q1535113,honorary golden medal of the state capital Munich,
+Werner Heisenberg,receivedAward,P166,Q2164908,Romano Guardini award,
+Werner Heisenberg,receivedAward,P166,Q7031462,Niels Bohr International Gold Medal,
+Werner Heisenberg,receivedAward,P166,Q15056034,Pour le Mérite for Sciences and Arts order,
+Werner Heisenberg,receivedAward,P166,Q20884576,Grand Cross of the Civil Order of Alfonso X the Wise,
+Werner Heisenberg,receivedAward,P166,Q21043512,Hall of Fame of German Research,
+Werner Heisenberg,receivedAward,P166,Q41799198,Honorary doctor of the University of Zagreb,
+Werner Heisenberg,receivedAward,P166,Q51720673,honorary doctorate of the Karlsruhe Institute of Technology,

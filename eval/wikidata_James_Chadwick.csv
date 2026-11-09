@@ -1,0 +1,23 @@
+person,predicate,property,value_qid,value_label,aliases
+James Chadwick,educatedAt,P69,Q35794,University of Cambridge,"Cambridge University|The Chancellor, Masters, and Scholars of the University of Cambridge|The University of Cambridge|Universitas Cantabrigiensis|Cambridge"
+James Chadwick,receivedAward,P166,Q38104,Nobel Prize in Physics,Physics Nobel Prize
+James Chadwick,worksAt,P108,Q230899,University of Manchester,UoM|Manchester University|The University of Manchester|Univ. of Manchester
+James Chadwick,educatedAt,P69,Q230899,University of Manchester,UoM|Manchester University|The University of Manchester|Univ. of Manchester
+James Chadwick,worksAt,P108,Q499510,University of Liverpool,The University of Liverpool|University Of Liverpool
+James Chadwick,doctoralAdvisor,P184,Q9123,Ernest Rutherford,"Ernest Lord Rutherford|Ernest Rutherford, primer barón Rutherford. de Nelson|Ernest, Lord Rutherford"
+James Chadwick,receivedAward,P166,Q833163,Knight Bachelor,Kt
+James Chadwick,educatedAt,P69,Q863940,Gonville and Caius College,Caius|Gonville Hall|Caius College
+James Chadwick,worksAt,P108,Q867530,Victoria University of Manchester,"University of Manchester|Owens College|Owens College, Manchester"
+James Chadwick,educatedAt,P69,Q867530,Victoria University of Manchester,"University of Manchester|Owens College|Owens College, Manchester"
+James Chadwick,receivedAward,P166,Q1107771,Royal Society Bakerian Medal,Bakerian Lecture|Bakerian medal
+James Chadwick,bornIn,P19,Q2247131,Bollington,"Bollington, Cheshire"
+James Chadwick,receivedAward,P166,Q15631401,Fellow of the Royal Society,"FRS|Fellow of the Royal Society of London|Fellow of the Royal Society, London|Fellowship of the Royal Society"
+James Chadwick,receivedAward,P166,Q16947520,Companion of Honour,CH
+James Chadwick,receivedAward,P166,Q844872,Hughes Medal,
+James Chadwick,receivedAward,P166,Q1330790,Medal of Freedom,
+James Chadwick,receivedAward,P166,Q1396110,Faraday Medal,
+James Chadwick,receivedAward,P166,Q3141777,Franklin Medal,
+James Chadwick,receivedAward,P166,Q15056034,Pour le Mérite for Sciences and Arts order,
+James Chadwick,receivedAward,P166,Q19597849,Melchett Medal,
+James Chadwick,receivedAward,P166,Q61576125,Guthrie Medal and Prize,
+James Chadwick,receivedAward,P166,Q28003,Copley Medal,

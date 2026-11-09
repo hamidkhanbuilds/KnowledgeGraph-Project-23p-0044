@@ -1,0 +1,8 @@
+PREFIX kg:   <http://example.org/kg/23p-0044/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?person ?ancestor
+WHERE {
+  ?p kg:doctoralAdvisor+ ?a .
+  ?p rdfs:label ?person . ?a rdfs:label ?ancestor .
+}
+ORDER BY ?person ?ancestor

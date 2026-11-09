@@ -1,0 +1,8 @@
+PREFIX kg: <http://example.org/kg/23p-0044/>
+SELECT ?predicate (COUNT(?s) AS ?triples)
+WHERE {
+  VALUES ?predicate { kg:bornIn kg:educatedAt kg:receivedAward kg:worksAt kg:doctoralAdvisor }
+  OPTIONAL { ?s ?predicate ?o }
+}
+GROUP BY ?predicate
+ORDER BY DESC(?triples) ?predicate

@@ -1,0 +1,44 @@
+@prefix kg:   <http://example.org/kg/23p-0044/> .
+@prefix sh:   <http://www.w3.org/ns/shacl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+kg:PersonShape a sh:NodeShape ;
+    sh:targetClass kg:Person ;
+    sh:property [
+        sh:path kg:bornIn ;
+        sh:maxCount 1 ;
+        sh:message "A person must have at most one birthplace." ;
+    ] ;
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:datatype xsd:string ;
+        sh:message "Every person needs a name (rdfs:label)." ;
+    ] .
+
+kg:BirthplaceKnownShape a sh:NodeShape ;
+    sh:targetClass kg:Person ;
+    sh:property [
+        sh:path kg:bornIn ;
+        sh:severity sh:Warning ;
+        sh:minCount 1 ;
+        sh:message "No birthplace recorded for this person." ;
+    ] .
+
+kg:NotAPersonShape a sh:NodeShape ;
+    sh:targetObjectsOf kg:bornIn , kg:educatedAt , kg:worksAt , kg:receivedAward ;
+    sh:not [ sh:class kg:Person ] ;
+    sh:message "This object of a place/organisation/award relation is also typed as a Person." .
+
+kg:NoSelfAdvisorShape a sh:NodeShape ;
+    sh:targetClass kg:Person ;
+    sh:sparql [
+        a sh:SPARQLConstraint ;
+        sh:message "A person cannot be their own doctoral advisor." ;
+        sh:select """
+            SELECT $this WHERE {
+                $this <http://example.org/kg/23p-0044/doctoralAdvisor> $this .
+            }
+        """ ;
+    ] .

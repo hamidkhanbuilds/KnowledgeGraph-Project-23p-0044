@@ -1,0 +1,9 @@
+PREFIX kg:   <http://example.org/kg/23p-0044/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?person1 ?person2 ?place
+WHERE {
+  ?a kg:bornIn ?pl . ?b kg:bornIn ?pl .
+  FILTER (STR(?a) < STR(?b))
+  ?a rdfs:label ?person1 . ?b rdfs:label ?person2 . ?pl rdfs:label ?place .
+}
+ORDER BY ?place

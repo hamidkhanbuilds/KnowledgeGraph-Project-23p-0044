@@ -1,0 +1,17 @@
+person,predicate,property,value_qid,value_label,aliases
+Sheldon Glashow,receivedAward,P166,Q38104,Nobel Prize in Physics,Physics Nobel Prize
+Sheldon Glashow,worksAt,P108,Q168756,"University of California, Berkeley",berkeley.edu|UCB|Berkeley University|Cal-Berkeley|U.C. Berkeley|Univ. of California Berkeley|University of California at Berkeley|University of California Berkeley|University of California–Berkeley|University of California College of Agriculture
+Sheldon Glashow,worksAt,P108,Q49110,Boston University,BU|Boston U|bu.edu|The Boston University
+Sheldon Glashow,educatedAt,P69,Q49110,Boston University,BU|Boston U|bu.edu|The Boston University
+Sheldon Glashow,educatedAt,P69,Q49115,Cornell University,Cornell|CU|CUI|Cornell Univ.|cornell.edu
+Sheldon Glashow,bornIn,P19,Q60,New York City,"New York City, United States|New York City, United States of America|New York City, USA|New York, New York, USA|NY, NY|the five boroughs|City of New York|Empire City|Center of the Universe|New York, NY|NY City|New York (city)|New York, N.Y.|New York City, New York|Capital of the World|city of New York|N. Y., N. Y.|New York (NY)|New York City (NYC)|New York City, New York, United States|New York City, NY"
+Sheldon Glashow,worksAt,P108,Q13371,Harvard University,"Harvard Graduate School|Harvard U.|Harvard Univ.|Harvard university|harvard.edu|Harvard.edu|Kremlin on the Charles|New College, Cambridge, Massachusetts|University of Harvard"
+Sheldon Glashow,educatedAt,P69,Q13371,Harvard University,"Harvard Graduate School|Harvard U.|Harvard Univ.|Harvard university|harvard.edu|Harvard.edu|Kremlin on the Charles|New College, Cambridge, Massachusetts|University of Harvard"
+Sheldon Glashow,doctoralAdvisor,P184,Q186465,Julian Seymour Schwinger,Julian Schwinger
+Sheldon Glashow,educatedAt,P69,Q751612,Bronx High School of Science,Bronx Science|Science High
+Sheldon Glashow,receivedAward,P166,Q7331107,Richtmyer Memorial Lecture Award,Richtmyer Memorial Award|Richtmyer Memorial Lecture
+Sheldon Glashow,receivedAward,P166,Q15815544,High Energy and Particle Physics Prize,High Energy Physics Prize
+Sheldon Glashow,receivedAward,P166,Q42293686,honorary doctor of the Bar-Ilan University,honorary doctorate of Bar Ilan University in Ramat Gan
+Sheldon Glashow,receivedAward,P166,Q23055126,J. Robert Oppenheimer Memorial Prize,
+Sheldon Glashow,receivedAward,P166,Q69420858,honorary doctor of Yeshiva University,
+Sheldon Glashow,receivedAward,P166,Q126416234,honorary doctorate of the University of the Mediterranean - Aix Marseille II,

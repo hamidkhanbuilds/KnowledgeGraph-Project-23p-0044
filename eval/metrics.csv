@@ -1,0 +1,7 @@
+run,predicate,TP,FP,FN,precision,recall
+before,bornIn,2,3,3,0.400,0.400
+before,educatedAt,5,4,10,0.556,0.333
+before,receivedAward,8,7,49,0.533,0.140
+before,worksAt,6,11,22,0.353,0.214
+before,doctoralAdvisor,2,0,4,1.000,0.333
+before,ALL,23,25,88,0.479,0.207

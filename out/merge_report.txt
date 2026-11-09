@@ -1,0 +1,100 @@
+Total alias merges: 442
+Erwin_Schrödinger.txt: main subject = 'Erwin Schrödinger', merges = 63
+    'Schrödinger' -> 'Erwin Schrödinger'  x37
+    'Moore' -> 'Walter Moore'  x8
+    'Einstein' -> 'Albert Einstein'  x4
+    'Erwin Rudolf Josef Alexander Schrödinger' -> 'Erwin Schrödinger'  x2
+    'Exner' -> 'Franz S. Exner'  x2
+    'Schopenhauer' -> 'Arthur Schopenhauer'  x2
+    'Watson' -> 'James D. Watson'  x1
+    'Franz Exner' -> 'Franz S. Exner'  x1
+    'Sommerfeld' -> 'Arnold Sommerfeld'  x1
+    'Wien' -> 'Max Wien'  x1
+    'Weyl' -> 'Hermann Weyl'  x1
+    'Rovelli' -> 'Carlo Rovelli'  x1
+    'Kragh' -> 'Helge Kragh'  x1
+    'Zentrum' -> 'Erwin Schrödinger Zentrum'  x1
+James_Chadwick.txt: main subject = 'James Chadwick', merges = 121
+    'Chadwick' -> 'James Chadwick'  x93
+    'Rutherford' -> 'Ernest Rutherford'  x7
+    'Geiger' -> 'Hans Geiger'  x6
+    'Goldhaber' -> 'Maurice Goldhaber'  x2
+    'Rotblat' -> 'Joseph Rotblat'  x2
+    'Kapitza' -> 'Pyotr Kapitza'  x1
+    'Feather' -> 'Norman Feather'  x1
+    'Heisenberg' -> 'Werner Heisenberg'  x1
+    'Pauli' -> 'Wolfgang Pauli'  x1
+    'Meitner' -> 'Lise Meitner'  x1
+    'Hahn' -> 'Otto Hahn'  x1
+    'Bohr' -> 'Niels Bohr'  x1
+    'Roosevelt' -> 'Franklin D. Roosevelt'  x1
+    'Peierls' -> 'Rudolf Peierls'  x1
+    'Teller' -> 'Edward Teller'  x1
+    'Moon' -> 'Philip Moon'  x1
+private_document.txt: main subject = 'Faryal Awan', merges = 1
+    'Dr Awan' -> 'Faryal Awan'  x1
+Richard_Feynman.txt: main subject = 'Richard Feynman', merges = 70
+    'Feynman' -> 'Richard Feynman'  x26
+    'Wheeler' -> 'John Archibald Wheeler'  x5
+    'Leighton' -> 'Ralph Leighton'  x3
+    'Einstein' -> 'Albert Einstein'  x3
+    'Gell-Mann' -> 'Murray Gell-Mann'  x3
+    'Hillis' -> 'Danny Hillis'  x3
+    'Richard Phillips Feynman' -> 'Richard Feynman'  x2
+    'Oppenheimer' -> 'Robert Oppenheimer'  x2
+    'Howarth' -> 'Gweneth Howarth'  x2
+    'Vallarta' -> 'Manuel Vallarta'  x1
+    'Morse' -> 'Philip M. Morse'  x1
+    'Pauli' -> 'Wolfgang Pauli'  x1
+    'Lawrence' -> 'Ernest O. Lawrence'  x1
+    'Wilson' -> 'Robert R. Wilson'  x1
+    'Bethe' -> 'Hans Bethe'  x1
+    'Dyson' -> 'Freeman Dyson'  x1
+    'Gleick' -> 'James Gleick'  x1
+    'Bohm' -> 'Physicist David Bohm'  x1
+    'Bacher' -> 'Robert Bacher'  x1
+    'Bell' -> 'Mary Louise Bell'  x1
+    'Rogers' -> 'William P. Rogers'  x1
+    'Strauss' -> 'Lewis Strauss'  x1
+    'Tomonaga' -> "Shin'ichirō Tomonaga"  x1
+    'Schwinger' -> 'Julian Schwinger'  x1
+    'Gates' -> 'Bill Gates'  x1
+    'Metropolis' -> 'Nicholas Metropolis'  x1
+    'Teller' -> 'Edward Teller'  x1
+    'Serber' -> 'Robert Serber'  x1
+    'Robert Leighton' -> 'Robert B. Leighton'  x1
+    'Robin W' -> 'R. W'  x1
+Sheldon_Glashow.txt: main subject = 'Sheldon Glashow', merges = 10
+    'Glashow' -> 'Sheldon Glashow'  x8
+    'Sheldon Lee Glashow' -> 'Sheldon Glashow'  x1
+    'Weinberg' -> 'Steven Weinberg'  x1
+Werner_Heisenberg.txt: main subject = 'Werner Heisenberg', merges = 177
+    'Heisenberg' -> 'Werner Heisenberg'  x132
+    'Sommerfeld' -> 'Arnold Sommerfeld'  x8
+    'Born' -> 'Max Born'  x3
+    'Über' -> 'Werner Heisenberg Über'  x3
+    'Werner Karl Heisenberg' -> 'Werner Heisenberg'  x2
+    'Schumacher' -> 'Elisabeth Schumacher'  x2
+    'Göttingen' -> 'Heisenberg to Göttingen'  x2
+    'Hahn' -> 'Otto Hahn'  x2
+    'Diebner' -> 'Kurt Diebner'  x2
+    'Einstein' -> 'Albert Einstein'  x2
+    'E. F. Schumacher' -> 'Elisabeth Schumacher'  x1
+    'Kramers' -> 'Hans Kramers'  x1
+    'Jordan' -> 'Pascual Jordan'  x1
+    'Himmler' -> 'Heinrich Himmler'  x1
+    'Müller' -> 'Wilhelm Müller'  x1
+    'Meitner' -> 'Lise Meitner'  x1
+    'Strassmann' -> 'Fritz Strassmann'  x1
+    'Samuel Goudsmit' -> 'Samuel Abraham Goudsmit'  x1
+    'Rust' -> 'Bernhard Rust'  x1
+    'Speer' -> 'Albert Speer'  x1
+    'Popp' -> 'Manfred Popp'  x1
+    'Max Laue' -> 'Max von Laue'  x1
+    'Schichtenanordnungen von D2O' -> 'Schichtenanordnungen D2O'  x1
+    'Kinematik' -> 'quantentheoretischen Kinematik'  x1
+    'Untersuchungen' -> 'Karl Wirtz Untersuchungen'  x1
+    'Wissenschaft' -> 'Deutschen Wissenschaft'  x1
+    'Quantentheorie' -> 'Zur Quantentheorie'  x1
+    'Physik' -> 'Jüdische Physik'  x1
+    'White' -> 'Walter White'  x1

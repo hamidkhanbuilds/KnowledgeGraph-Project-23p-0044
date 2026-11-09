@@ -1,0 +1,3 @@
+source_doc,sentence,predicate,subject,object,reason
+private_document.txt,"Despite a persistent rumour, she never studied at Calder Institute of Physics.",educatedAt,Faryal Awan,Calder Institute of Physics,negated
+Richard_Feynman.txt,"Because Feynman was no longer working at the Los Alamos Laboratory, he was no longer exempt from the draft.",worksAt,Richard Feynman,Los Alamos Laboratory,negated

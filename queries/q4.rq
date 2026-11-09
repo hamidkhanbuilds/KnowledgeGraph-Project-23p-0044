@@ -1,0 +1,9 @@
+PREFIX kg:   <http://example.org/kg/23p-0044/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?person (COUNT(DISTINCT ?b) AS ?how_many) (GROUP_CONCAT(DISTINCT ?place; separator=" | ") AS ?places)
+WHERE {
+  ?p kg:bornIn ?b ; rdfs:label ?person .
+  ?b rdfs:label ?place .
+}
+GROUP BY ?person
+HAVING (COUNT(DISTINCT ?b) >= 2)
